@@ -2,3 +2,4 @@
 这是main文件内容
 这是mergedemo2添加
 version1
+version2
